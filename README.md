@@ -62,8 +62,7 @@ Deliverable 3: Your code
            1     0.9988    1.0000    0.9994      3294
 
     accuracy                         0.9991      4620
-   macro avg     0.9994    0.9985    0.9989      4620
-weighted avg     0.9991    0.9991    0.9991      4620
+
 
 
 
