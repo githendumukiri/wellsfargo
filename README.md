@@ -54,3 +54,17 @@ Deliverable 3: Your code
 •	Well-commented code that is operational and can be run using the data provided and generating the output of your approach.
 •	An environment configuration file that lists the names and versions of the libraries you used. 
 
+# Results
+ 
+              precision    recall  f1-score   support
+
+           0     1.0000    0.9970    0.9985      1326
+           1     0.9988    1.0000    0.9994      3294
+
+    accuracy                         0.9991      4620
+   macro avg     0.9994    0.9985    0.9989      4620
+weighted avg     0.9991    0.9991    0.9991      4620
+
+
+
+
